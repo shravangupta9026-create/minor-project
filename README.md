@@ -34,6 +34,16 @@ SheRise AI is an AI-powered skill development and personalized learning platform
 
 The AI assistant currently uses contextual mock responses from a frontend service. It does not connect to an AI provider or backend API.
 
+## Documentation
+
+- [Product requirements](./01-PRD.md) — product goals, requirements, and future scope
+- [Architecture](./02-ARCHITECTURE.md) — routes, state, data flow, persistence, and build setup
+- [Design system](./03-DESIGN.md) — current styles, responsive patterns, and accessibility practices
+- [Project rules](./04-RULES.md) — conventions for future development
+- [Project tasks](./05-TASK.md) — implementation status and follow-up work
+- [Project memory](./06-MEMORY.md) — important implementation details and constraints
+- [Components](./src/components/COMPONENTS.md) · [Pages](./src/pages/PAGES.md) · [Services](./src/services/SERVICES.md) · [Learning data](./src/data/DATA.md)
+
 ## Project Structure
 
 ```text
